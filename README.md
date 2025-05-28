@@ -1,4 +1,4 @@
-# FoodSnap AI - Hackathon Project
+# FoodSnap AI - Hackathon Projects
 
 🎉 **Welcome to the FoodSnap AI Hackathon!** 🎉
 
